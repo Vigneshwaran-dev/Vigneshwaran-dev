@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vigneshwaran-github-private
+- 👋 Hi, I’m @Vigneshwaran
 - 👀 I’m interested in React Native 
 - 🌱 I’m currently learning React Native ...
 
