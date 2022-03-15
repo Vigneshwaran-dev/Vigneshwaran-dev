@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Vigneshwaran K
-#### 👀 I’m interested in ***Web development*** 
-#### 🌱 I’m currently learning React Native , Electron , Reactjs . ...
+#### 👀 I’m interested in ***Web development and web designing*** 
+#### 🌱 I’m currently learning React Native , Electron , Reactjs ....
+#### I am a individual but not professional developers
 
 <!---
 Vigneshwaran-github-private/Vigneshwaran-github-private is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
